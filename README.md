@@ -1,5 +1,6 @@
 # Bitcoin and Cryptocurrency Technologies by Princeton University
 
+[Link to course](https://www.coursera.org/learn/cryptocurrency "Course page")
 ### About this Course
 To really understand what is special about Bitcoin, we need to understand how it works at a technical level. We’ll address the important questions about Bitcoin, such as:
 
